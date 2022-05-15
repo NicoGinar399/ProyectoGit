@@ -1,0 +1,5 @@
+C:\Users\nicol\Desktop\Proyecto de practicas\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\nicol\Desktop\Proyecto de practicas\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\nicol\Desktop\Proyecto de practicas\Presentacion\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\Proyecto de practicas\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\nicol\Desktop\Proyecto de practicas\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
